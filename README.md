@@ -1,2 +1,2 @@
-# DISCLAIMER
-**THis repo will no longer be maintained (but it still exist)**
+# Repositiry archived
+This repository is no more necessary
